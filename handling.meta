@@ -33600,33 +33600,33 @@
 		<Item type="CHandlingData">
       <handlingName>CALICO</handlingName>
       <fMass value="1448.000000" />
-      <fInitialDragCoeff value="9.475000" />
-	  <fDownforceModifier value="150" />
+      <fInitialDragCoeff value="3.000000" />
+	  	<fDownforceModifier value="150" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.120000" z="0.000000" />
       <vecInertiaMultiplier x="1.300000" y="1.300000" z="1.150000" />
       <fDriveBiasFront value="0.480000" />
-      <nInitialDriveGears value="5" />
+      <nInitialDriveGears value="6" />
       <fInitialDriveForce value="0.338500" />
       <fDriveInertia value="1.000000" />
       <fClutchChangeRateScaleUpShift value="5.800000" />
       <fClutchChangeRateScaleDownShift value="5.800000" />
-      <fInitialDriveMaxFlatVel value="149.75000" />
+      <fInitialDriveMaxFlatVel value="170.75000" />
       <fBrakeForce value="0.825000" />
       <fBrakeBiasFront value="0.481500" />
       <fHandBrakeForce value="0.650000" />
-      <fSteeringLock value="41.45000" />
+      <fSteeringLock value="42.45000" />
       <fTractionCurveMax value="2.43500" />
       <fTractionCurveMin value="2.17450" />
-      <fTractionCurveLateral value="22.250000" />
+      <fTractionCurveLateral value="19.250000" />
       <fTractionSpringDeltaMax value="0.150000" />
       <fLowSpeedTractionLossMult value="1.00000" />
       <fCamberStiffnesss value="0.000000" />
       <fTractionBiasFront value="0.482500" />
       <fTractionLossMult value="1.000000" />
-      <fSuspensionForce value="2.250000" />
-      <fSuspensionCompDamp value="1.650000" />
-      <fSuspensionReboundDamp value="2.675000" />
+      <fSuspensionForce value="2.40000" />
+      <fSuspensionCompDamp value="1.500000" />
+      <fSuspensionReboundDamp value="1.35000" />
       <fSuspensionUpperLimit value="0.070000" />
       <fSuspensionLowerLimit value="-0.110000" />
       <fSuspensionRaise value="0.010000" />
