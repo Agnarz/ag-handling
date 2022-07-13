@@ -14445,7 +14445,7 @@
 			<fInitialDragCoeff value="3.000000" />
 			<fPercentSubmerged value="85.000000" />
 			<fDownforceModifier value="350" />
-			<vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
+			<vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.000000" />
 			<vecInertiaMultiplier x="1.000000" y="1.500000" z="1.600000" />
 			<fDriveBiasFront value="0.000000" />
 			<nInitialDriveGears value="7" />
@@ -14475,8 +14475,8 @@
 			<fSuspensionBiasFront value="0.520000" />
 			<fAntiRollBarForce value="0.600000" />
 			<fAntiRollBarBiasFront value="0.600000" />
-			<fRollCentreHeightFront value="0.170000" />
-			<fRollCentreHeightRear value="0.217500" />
+			<fRollCentreHeightFront value="0.190000" />
+			<fRollCentreHeightRear value="0.220000" />
 			<fCollisionDamageMult value="1.00000" />
 			<fWeaponDamageMult value="1.000000" />
 			<fDeformationDamageMult value="0.700000" />
