@@ -19201,7 +19201,7 @@
 			<fSuspensionBiasFront value="0.520000" />
 			<fAntiRollBarForce value="0.600000" />
 			<fAntiRollBarBiasFront value="0.600000" />
-			<fRollCentreHeightFront value="0.160000" />
+			<fRollCentreHeightFront value="0.140000" />
 			<fRollCentreHeightRear value="0.160000" />
 			<fCollisionDamageMult value="1.000000" />
 			<fWeaponDamageMult value="1.000000" />
